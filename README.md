@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hei, Velkommen til mitt Portofolio.
+
+### Jobber per dags dato med dette api-et: 
+
+### https://github.com/Ismail-The-Pro/Squeeze.git
+
+
+### Dette api-et lagde jeg til våres eksamen : 
+### https://github.com/Ismail-The-Pro/GokstadHageVenner.git
 
 <!--
 **Ismail-The-Pro/Ismail-The-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
