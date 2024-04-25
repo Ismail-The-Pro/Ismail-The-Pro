@@ -5,7 +5,7 @@
 ### https://github.com/Ismail-The-Pro/Squeeze.git
 
 
-### Dette api-et lagde jeg til våres eksamen : 
+### Dette er et tidligere api som jeg har laget : 
 ### https://github.com/Ismail-The-Pro/GokstadHageVenner.git
 
 <!--
